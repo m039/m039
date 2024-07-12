@@ -1,5 +1,5 @@
 ## My Open Source Game Projects
-Small games:
+Small games that you can play on Yandex Games:
 1. [Minesweeper Reverse](https://github.com/m039/MinesweeperReverse) - a puzzle game, Unity, GPL3, Aug 2023.
 2. [Vertical Landing](https://github.com/m039/VerticalLanding) - an arcade game, Unity, MIT, Jan 2023.
 
