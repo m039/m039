@@ -11,7 +11,7 @@ Prototypes:
 1. [Uncontrollable Stick](https://github.com/m039/UncontrollableStick) - a physic puzzle game, Godot, MIT, Jan 2020.
 
 Libraries:
-1. [Basic Localization](https://github.com/m039/BasicLocalization) - localization, Unity, MIT, Now 2021.
+1. [Basic Localization](https://github.com/m039/BasicLocalization) - text localization, Unity, MIT, Now 2021.
 
 <!--
 **m039/m039** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
