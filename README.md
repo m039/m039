@@ -1,13 +1,14 @@
 ## My Open Source Game Projects
 Small games:
-1. [VerticalLanding](https://github.com/m039/VerticalLanding) - an arcade game, Unity, MIT, Jan 2023.
+1. [Minesweeper Reverse](https://github.com/m039/MinesweeperReverse) - a puzzle game, Unity, GPL3, Aug 2023.
+2. [Vertical Landing](https://github.com/m039/VerticalLanding) - an arcade game, Unity, MIT, Jan 2023.
 
 Game jam games:
 1. [Reach That Point](https://github.com/m039/LudumDare48) - a puzzle game, Ludum Dare 48, Unity, MIT, May 2021.
 2. [Spinning Around](https://github.com/m039/LudumDare47) - an arcade game, Ludum Dare 47, Unity, MIT, Oct 2020.
 
 Prototypes:
-1. [UncontrollableStick](https://github.com/m039/UncontrollableStick) - a physic puzzle game, Godot, MIT, Jan 2020.
+1. [Uncontrollable Stick](https://github.com/m039/UncontrollableStick) - a physic puzzle game, Godot, MIT, Jan 2020.
 
 Libraries:
 1. [Basic Localization](https://github.com/m039/BasicLocalization) - localization, Unity, MIT, Now 2021.
