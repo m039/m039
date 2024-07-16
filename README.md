@@ -1,8 +1,9 @@
 ## My Open Source Game Projects
 Small games that you can play on Yandex Games:
 1. [Minesweeper Reverse](https://github.com/m039/MinesweeperReverse) - a puzzle game, Unity, GPL3, Aug 2023.
-2. [Vertical Landing](https://github.com/m039/VerticalLanding) - an arcade game, Unity, MIT, Jan 2023.
-3. [Snowtime Delivery](https://github.com/m039/SnowtimeDelivery)[^notmine] - a platformer, MonoGame / KNI, GPL3, Jul 2024.
+2. [Super Noob Parkour](https://github.com/m039/NoobParkour) - a platformer, Phaser, GPL3, Oct 2023.
+3. [Vertical Landing](https://github.com/m039/VerticalLanding) - an arcade game, Unity, MIT, Jan 2023.
+4. [Snowtime Delivery](https://github.com/m039/SnowtimeDelivery)[^notmine] - a platformer, MonoGame / KNI, GPL3, Jul 2024.
 
 Game jam games:
 1. [Reach That Point](https://github.com/m039/LudumDare48) - a puzzle game, Ludum Dare 48, Unity, MIT, May 2021.
