@@ -14,6 +14,7 @@ Prototypes:
 
 Libraries:
 1. [Basic Localization](https://github.com/m039/BasicLocalization) - text localization, Unity, MIT, Nov 2021.
+2. [Common Unity Library](https://github.com/m039/CommonUnityLibrary) - general purpose, Unity, MIT, Dec 2019.
 
 [^notmine]: Originally not mine.
 
